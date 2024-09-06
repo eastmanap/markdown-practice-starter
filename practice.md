@@ -11,7 +11,9 @@ https://www.amazon.com/
 https://www.youtube.com/watch?v=kqtD5dpn9C8
 
 # print
-``print (i dont really know how to do a print command)
+my_name = 'apollos eastman'
+
+print (my_name)
 
 ## about me
 **I am 16**
