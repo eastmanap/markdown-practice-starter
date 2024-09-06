@@ -18,4 +18,3 @@ https://www.youtube.com/watch?v=kqtD5dpn9C8
 
 *I like pizza*
 
-im learning to code
